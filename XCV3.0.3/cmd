@@ -1,1 +1,1 @@
-wget -q -O /root/install.sh http://files.cracksmart.com/install.sh && chmod +x install.sh && ./install.sh && php install_minimal.php
+wget -q -O /root/install.sh https://raw.githubusercontent.com/MassinDV/xc/main/XCV3.0.3/install.sh && chmod +x install.sh && ./install.sh && php install_minimal.php
